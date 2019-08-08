@@ -1,3 +1,4 @@
 Welcom to my first experience with GitHub.
 
-I am currently a computer science and Spansih double major. Me gusta hablar espanol y en el futuro espero que seria con fluedez. 
+I am currently a computer science and Spansih double major. Me gusta hablar español y en el futuro espero que sería con fluedez. 
+Curently making changes on the GitHub web interface and hoping I can then update this file on my remote repository!
